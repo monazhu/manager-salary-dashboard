@@ -20,7 +20,7 @@ The current version of the survey used was compiled by the [tidytuesday](https:/
 
 The app is live on [shinyapp.io](https://monazhu.shinyapps.io/ManagerSalary/)!
 
-![](img/demo.mp4)
+![](img/demo.gif)
 
 
 ## Installation Instructions
