@@ -1,0 +1,12 @@
+name: ManagerSalary
+title: ManagerSalary
+username: monazhu
+account: monazhu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11853849
+bundleId: 8537091
+url: https://monazhu.shinyapps.io/ManagerSalary/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
